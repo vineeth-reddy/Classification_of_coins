@@ -1,2 +1,2 @@
-# Classification_of_coins
+# Classification of coins Using CNN
 Built a Convolutional Neural Network to classify the coins into 5 classes where the labels are given in the file names. Able to achieve the best Test Accuracy of 97.5% with just 20 epochs training the model. Can still improve the accuracy by tuning the HyperParameters and running more epochs, However we should make sure model is not overfitted which can be overcomed by adding Regularization, Dropouts etc.
